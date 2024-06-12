@@ -43,8 +43,9 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both">
 
 <img src="https://raw.githubusercontent.com/S3rend1pi4/S3rend1pi4/output/snake.svg" alt="Snake animation" />
+-->
 
 ###
