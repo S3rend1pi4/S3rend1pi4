@@ -26,6 +26,22 @@
 
 ###
 
+<h3>Acerca de mí</h3>
+<p>
+  Soy un Desarrollador de Aplicaciones Multiplataforma recién titulado con un FP de Grado Superior en Desarrollo de Aplicaciones Multiplataforma.
+</p>
+<p>
+  Estoy apasionado por el desarrollo de aplicaciones innovadoras que mejoren la experiencia del usuario y solucionen problemas reales. Mis aptitudes incluyen:
+  <ul>
+    <li><strong>Desarrollo de Software:</strong> Experiencia en el diseño y desarrollo de aplicaciones multiplataforma.</li>
+    <li><strong>Tecnologías Móviles:</strong> Conocimientos en Android, con capacidad para crear aplicaciones nativas y 
+multiplataforma.</li>
+    <li><strong>Trabajo en Equipo:</strong> Habilidad para colaborar eficazmente con equipos multidisciplinarios.</li>
+    <li><strong>Resolución de Problemas:</strong> Capacidad para abordar y solucionar problemas técnicos de manera eficiente.</li>
+    <li><strong>Aprendizaje Continuo:</strong> Compromiso con el aprendizaje continuo y la adaptación a nuevas tecnologías.</li>
+  </ul>
+</p>
+
 <div align="left">
   <a href="mailto:jaimee.pallaress@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
