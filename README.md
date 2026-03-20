@@ -28,7 +28,7 @@
 
 <h3>Acerca de mí</h3>
 <p>
-  Soy un Desarrollador de Aplicaciones Multiplataforma recién titulado con un FP de Grado Superior en Desarrollo de Aplicaciones Multiplataforma.
+  Soy un Desarrollador de Aplicaciones Multiplataforma titulado con un FP de Grado Superior en Desarrollo de Aplicaciones Multiplataforma, actualmente me encuentro estudiando Ingeniería Informática.
 </p>
 <p>
   Estoy apasionado por el desarrollo de aplicaciones innovadoras que mejoren la experiencia del usuario y solucionen problemas reales. Mis aptitudes incluyen:
